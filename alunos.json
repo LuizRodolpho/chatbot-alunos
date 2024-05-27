@@ -1,0 +1,162 @@
+[
+  {
+    "nome": "João Silva",
+    "dados": {
+      "idade": 19,
+      "curso": "Ciência da Computação",
+      "semestre": 2
+    }
+  },
+  {
+    "nome": "Maria de Souza",
+    "dados": {
+      "idade": 21,
+      "curso": "Sistemas de Informação",
+      "semestre": 4
+    }
+  },
+  {
+    "nome": "Lucas de Oliveira Santos",
+    "dados": {
+      "idade": 20,
+      "curso": "Engenharia de Software",
+      "semestre": 5
+    }
+  },
+  {
+    "nome": "Ana Paula Costa",
+    "dados": {
+      "idade": 22,
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "semestre": 5
+    }
+  },
+  {
+    "nome": "Pedro Henrique Santos",
+    "dados": {
+      "idade": 18,
+      "curso": "Ciência de Dados",
+      "semestre": 1
+    }
+  },
+  {
+    "nome": "Carla Ramos",
+    "dados": {
+      "idade": 23,
+      "curso": "Tecnologia da Informação",
+      "semestre": 6
+    }
+  },
+  {
+    "nome": "Rafael Lima",
+    "dados": {
+      "idade": 19,
+      "curso": "Engenharia de Computação",
+      "semestre": 2
+    }
+  },
+  {
+    "nome": "Isabela de Nunes Alves",
+    "dados": {
+      "idade": 20,
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "semestre": 4
+    }
+  },
+  {
+    "nome": "Thiago Ferreira",
+    "dados": {
+      "idade": 21,
+      "curso": "Engenharia de Software",
+      "semestre": 5
+    }
+  },
+  {
+    "nome": "Gustavo Martins da Silva",
+    "dados": {
+      "idade": 18,
+      "curso": "Sistemas de Informação",
+      "semestre": 1
+    }
+  },
+  {
+    "nome": "Larissa de Oliveira Pereira",
+    "dados": {
+      "idade": 22,
+      "curso": "Tecnologia da Informação",
+      "semestre": 6
+    }
+  },
+  {
+    "nome": "Eduardo Costa",
+    "dados": {
+      "idade": 20,
+      "curso": "Ciência da Computação",
+      "semestre": 3
+    }
+  },
+  {
+    "nome": "Fernanda dos Santos",
+    "dados": {
+      "idade": 23,
+      "curso": "Ciência de Dados",
+      "semestre": 4
+    }
+  },
+  {
+    "nome": "Vitor Rocha",
+    "dados": {
+      "idade": 21,
+      "curso": "Engenharia de Software",
+      "semestre": 3
+    }
+  },
+  {
+    "nome": "Letícia Gomes de Lima",
+    "dados": {
+      "idade": 19,
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "semestre": 2
+    }
+  },
+  {
+    "nome": "Carlos Mendes",
+    "dados": {
+      "idade": 20,
+      "curso": "Sistemas de Informação",
+      "semestre": 3
+    }
+  },
+  {
+    "nome": "Jessica Monteiro",
+    "dados": {
+      "idade": 22,
+      "curso": "Tecnologia da Informação",
+      "semestre": 6
+    }
+  },
+  {
+    "nome": "Paula Ferreira de Souza",
+    "dados": {
+      "idade": 19,
+      "curso": "Engenharia de Computação",
+      "semestre": 2
+    }
+  },
+  {
+    "nome": "Paula Almeida",
+    "dados": {
+      "idade": 21,
+      "curso": "Ciência da Computação",
+      "semestre": 5
+    }
+  },
+  {
+    "nome": "André Vasconcelos Lima",
+    "dados": {
+      "idade": 23,
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "semestre": 7
+    }
+  }
+]
